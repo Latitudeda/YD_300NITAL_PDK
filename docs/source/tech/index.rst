@@ -1,7 +1,7 @@
 Technology setting
 ========================
 
-The technology in YD 300NITAL PDK holds a number of common configuration files dealing with process and layout display, such as:
+The technology in **YD 300NITAL PDK** holds a number of common configuration files dealing with process and layout display, such as:
 
 
 
@@ -18,7 +18,6 @@ The technology in YD 300NITAL PDK holds a number of common configuration files d
    layers
    metrics
    terminal
-   vias
    wg
 
 

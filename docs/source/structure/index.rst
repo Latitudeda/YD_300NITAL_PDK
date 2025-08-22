@@ -1,7 +1,7 @@
 PDK structure
 ======================
 
-Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on YD 300NITAL design rules and technology settings.
+Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on **YD 300NITAL** design rules and technology settings.
 
 ``YF_300NITAL_V1p5_Latitudeda`` package includes three subfolders: ``components``, ``examples``, and ``technology``.
 
@@ -17,7 +17,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``technology``
 
-    * Store the technology setting which matched the YD 300NITAL design rules. We recommend users not to change the settings in technology folder.
+    * Store the technology setting which matched the **YD 300NITAL** design rules. We recommend users not to change the settings in technology folder.
 
     * See chapter ``Technology setting`` for more specific definition.
 

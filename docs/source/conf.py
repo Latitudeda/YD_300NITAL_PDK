@@ -6,8 +6,8 @@ project = 'YD 300NITAL PDK documentation'
 copyright = '2025, Latitudeda.com'
 author = 'www.latitudeda.com'
 
-release = '0.8'
-version = '0.8.0'
+release = '1.5'
+version = '1.5'
 
 # -- General configuration
 

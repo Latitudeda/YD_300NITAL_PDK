@@ -4,7 +4,7 @@ AdvancedSDL
 Import YD 300NITAL PDK into AdvancedSDL
 *******************************************
 
-Copy the YD 300NITAL PDK folder to the **AdvancedSDL** installation path: ``...\AdvancedSDL\Python\Lib\site-packages``. It can also be placed in other paths that do not contain special symbols such as Chinese characters and Spaces, so that python does not fail to identify the path.
+Copy the **YD 300NITAL PDK** folder to the **AdvancedSDL** installation path: ``...\ASDL\Python\Lib\site-packages``. It can also be placed in other paths that do not contain special symbols such as Chinese characters and Spaces, so that python does not fail to identify the path.
 
 .. image:: ../images/ASDL_0.png
 
@@ -12,11 +12,11 @@ Click ``PDK`` on the top toolbar of **AdvancedSDL** and select ``Open PDK Symbol
 
 .. image:: ../images/ASDL_1.png
 
-Locate and select the ``YD`` PDK folder.
+Locate and select the YD PDK folder.
 
 .. image:: ../images/ASDL_2.png
 
-After the import is complete, you will see the ``YD`` PDK component library on the left.
+After the import is complete, you will see the **YDME PDK** component library on the left.
 
 .. image:: ../images/ASDL_3.png
 
@@ -24,7 +24,7 @@ Click ``File`` and then click ``New Project``.
 
 .. image:: ../images/ASDL_4.png
 
-Enter the project name and path, select ``YD`` PDK in the PDK column, and click ``Save``.
+Enter the project name and path, select **YDME PDK** in the PDK column, and click ``OK``.
 
 .. image:: ../images/ASDL_5.png
 
@@ -32,7 +32,7 @@ Wait for the contents of ``Import YD_300NITAL_V1p5_Latitudeda pdk symbols succee
 
 .. image:: ../images/ASDL_6.png
 
-Right-click on the ``circuits`` of the project, click ``New Circuit``, type ``circuit name`` and click ``Save``.
+Right-click on the ``circuits`` of the project, click ``New Circuit``, type ``Circuit Name`` and click ``Save``.
 
 .. image:: ../images/ASDL_7.png
 

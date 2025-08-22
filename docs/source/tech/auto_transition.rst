@@ -3,7 +3,7 @@ auto_transition.py
 
 Define the transition between different waveguide type.
 
-In YD 300NITAL PDK, a linear taper will be added between two same type of waveguides with different width. The ``SLOPE`` of taper is default to be 0.2.
+In **YD 300NITAL PDK**, a linear taper will be added between two same type of waveguides with different width. The ``SLOPE`` of taper is default to be 0.2.
 
 For the connection between different waveguide types, fixed black box transitions have been configured by default. These transitions are provided by **YDME**, and will be added automatically when auto-routing is called for different waveguide types.
 
