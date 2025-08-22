@@ -1,4 +1,4 @@
 strip_bends.py
 ======================
 
-Define the bend settings for waveguides(`STRIP.C.WIRE`).
+Define the bend settings for waveguides type ``STRIP.C.WIRE`` .

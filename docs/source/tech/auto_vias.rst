@@ -3,6 +3,6 @@ auto_vias.py
 
 Define the vias between different metal line type.
 
-In YD 300NITAL PDK, when two adjacent metal lines are connected, the corresponding vias array will be added automatically, please refer to the Process Cross Section in Chapter 2 of the YD 300NITAL technology handbook for the specific metal stacking relationship.
+In **YD 300NITAL PDK**, there is only one metal layer. When metals with different width are connected, a linear taper is used for transition.
 
-Users are allowed to define vias and change related parameters by their own specific requirements. Please see ``technology > vias.py`` and ``components > via > vias.py`` to modifiy the default vias. Please note that the structure of the vias needs to follow the design rules of **YDME**.
+Users are allowed to change slope of the linear taper by their own specific requirements. Please see ``technology > auto_vias.py`` to modifiy the default slope.
