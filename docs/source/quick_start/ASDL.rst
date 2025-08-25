@@ -24,7 +24,7 @@ Click ``File`` and then click ``New Project``.
 
 .. image:: ../images/ASDL_4.png
 
-Enter the project name and path, select **YDME PDK** in the PDK column, and click ``OK``.
+Enter the project name and path, select **YD PDK** in the PDK column, and click ``OK``.
 
 .. image:: ../images/ASDL_5.png
 
